@@ -1,0 +1,5 @@
+{
+  "name": "token-speed",
+  "version": "0.1.0",
+  "description": "在状态栏显示模型输出速度（tok/s）、首字延迟、输出量和缓存命中；/token-speed 查看本会话统计"
+}
